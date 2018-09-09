@@ -4,11 +4,26 @@
   "startNode": "entry",
   "nodes": [
     {
-      "id": "d42cfbc8b4",
+      "id": "69d96d7470",
       "name": "entry",
-      "onEnter": [],
+      "onEnter": [
+        "say #!builtin_single-choice-n6sq9L"
+      ],
       "onReceive": null,
-      "next": []
+      "next": [
+        {
+          "condition": "event.payload == 0",
+          "node": "Day1.flow.json"
+        },
+        {
+          "condition": "event.payload == 1",
+          "node": ""
+        },
+        {
+          "condition": "event.nlu.intent.is(\"health-info)",
+          "node": "Day1.flow.json"
+        }
+      ]
     }
   ]
 }

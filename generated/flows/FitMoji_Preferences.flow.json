@@ -21,7 +21,8 @@
       "id": "26260fdec8",
       "name": "entry-copy-copy-copy",
       "onEnter": [
-        "say #!builtin_text-PUkb4b"
+        "say #!builtin_text-PUkb4b",
+        "setUserVariable {\"name\":\"{{event.text}}\",\"value\":\"\",\"expiry\":\"never\"}"
       ],
       "onReceive": [],
       "next": [

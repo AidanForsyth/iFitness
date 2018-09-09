@@ -234,7 +234,7 @@
   {
     "id": "builtin_text-TrwhK4",
     "formData": {
-      "text": "Hey! My name is Ares, your neighbourhood bot here to deliver all of your nutrition and fitness news!",
+      "text": "Hey! It's me, Ares again. Right now, I am just collecting your personaly fitness goals to help guide you to success in the best way possible.",
       "typing": true
     },
     "createdBy": "admin",
@@ -347,5 +347,32 @@
     },
     "createdBy": "admin",
     "createdOn": "2018-07-13T13:32:05.352Z"
+  },
+  {
+    "id": "builtin_text-SyZZCN",
+    "formData": {
+      "text": "Hello, welcome to iFitness. The one stop shop to all of your fitness needs",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-09-09T13:25:14.764Z"
+  },
+  {
+    "id": "builtin_text-m_5IVN",
+    "formData": {
+      "text": "My name is Ares and I am a nutrition and fitness bot geared to helping you exceed your goals.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-09-09T13:29:09.053Z"
+  },
+  {
+    "id": "builtin_text-n~bI3U",
+    "formData": {
+      "text": "Is there anything specific I can help you with? Or would you like to hear some of our top rated nutritional packages and tips?",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-09-09T13:29:59.144Z"
   }
 ]

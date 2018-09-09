@@ -1,0 +1,358 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "entities": [], 
+        "intent": "communityevents", 
+        "text": "calendar"
+      }, 
+      {
+        "entities": [], 
+        "intent": "communityevents", 
+        "text": "schedule"
+      }, 
+      {
+        "entities": [], 
+        "intent": "communityevents", 
+        "text": "house activities"
+      }, 
+      {
+        "entities": [], 
+        "intent": "communityevents", 
+        "text": "teamwork"
+      }, 
+      {
+        "entities": [], 
+        "intent": "communityevents", 
+        "text": "neighbours"
+      }, 
+      {
+        "entities": [], 
+        "intent": "communityevents", 
+        "text": "peers"
+      }, 
+      {
+        "entities": [], 
+        "intent": "communityevents", 
+        "text": "community centre"
+      }, 
+      {
+        "entities": [], 
+        "intent": "communityevents", 
+        "text": "bake sale"
+      }, 
+      {
+        "entities": [], 
+        "intent": "communityevents", 
+        "text": "skiing"
+      }, 
+      {
+        "entities": [], 
+        "intent": "communityevents", 
+        "text": "basketball"
+      }, 
+      {
+        "entities": [], 
+        "intent": "communityevents", 
+        "text": "badminton"
+      }, 
+      {
+        "entities": [], 
+        "intent": "communityevents", 
+        "text": "tennis"
+      }, 
+      {
+        "entities": [], 
+        "intent": "communityevents", 
+        "text": "vollyball"
+      }, 
+      {
+        "entities": [], 
+        "intent": "communityevents", 
+        "text": "beach vollyball"
+      }, 
+      {
+        "entities": [], 
+        "intent": "communityevents", 
+        "text": "zumba"
+      }, 
+      {
+        "entities": [], 
+        "intent": "communityevents", 
+        "text": "swimming"
+      }, 
+      {
+        "entities": [], 
+        "intent": "communityevents", 
+        "text": "yoga"
+      }, 
+      {
+        "entities": [], 
+        "intent": "communityevents", 
+        "text": "community"
+      }, 
+      {
+        "entities": [], 
+        "intent": "communityevents", 
+        "text": "events"
+      }, 
+      {
+        "entities": [], 
+        "intent": "fitness", 
+        "text": "How to get big?"
+      }, 
+      {
+        "entities": [], 
+        "intent": "fitness", 
+        "text": "bench press"
+      }, 
+      {
+        "entities": [], 
+        "intent": "fitness", 
+        "text": "deadlft"
+      }, 
+      {
+        "entities": [], 
+        "intent": "fitness", 
+        "text": "squat"
+      }, 
+      {
+        "entities": [], 
+        "intent": "fitness", 
+        "text": "lift"
+      }, 
+      {
+        "entities": [], 
+        "intent": "fitness", 
+        "text": "pump guns"
+      }, 
+      {
+        "entities": [], 
+        "intent": "fitness", 
+        "text": "work-out"
+      }, 
+      {
+        "entities": [], 
+        "intent": "fitness", 
+        "text": "exercise"
+      }, 
+      {
+        "entities": [], 
+        "intent": "fitness", 
+        "text": "fitness"
+      }, 
+      {
+        "entities": [], 
+        "intent": "forget", 
+        "text": "don't remember my name"
+      }, 
+      {
+        "entities": [], 
+        "intent": "forget", 
+        "text": "delete my name from your memory"
+      }, 
+      {
+        "entities": [], 
+        "intent": "forget", 
+        "text": "erase my name"
+      }, 
+      {
+        "entities": [], 
+        "intent": "forget", 
+        "text": "forget name"
+      }, 
+      {
+        "entities": [], 
+        "intent": "forget", 
+        "text": "forget"
+      }, 
+      {
+        "entities": [], 
+        "intent": "forget", 
+        "text": "please forget my name"
+      }, 
+      {
+        "entities": [], 
+        "intent": "forget", 
+        "text": "forget my name"
+      }, 
+      {
+        "entities": [], 
+        "intent": "health_info", 
+        "text": "health"
+      }, 
+      {
+        "entities": [], 
+        "intent": "health_info", 
+        "text": "ideas"
+      }, 
+      {
+        "entities": [], 
+        "intent": "health_info", 
+        "text": "research"
+      }, 
+      {
+        "entities": [], 
+        "intent": "health_info", 
+        "text": "information"
+      }, 
+      {
+        "entities": [], 
+        "intent": "health_info", 
+        "text": "facts"
+      }, 
+      {
+        "entities": [], 
+        "intent": "health_info", 
+        "text": "tips"
+      }, 
+      {
+        "entities": [], 
+        "intent": "hello", 
+        "text": "good day!"
+      }, 
+      {
+        "entities": [], 
+        "intent": "hello", 
+        "text": "good morning"
+      }, 
+      {
+        "entities": [], 
+        "intent": "hello", 
+        "text": "holla"
+      }, 
+      {
+        "entities": [], 
+        "intent": "hello", 
+        "text": "bonjour"
+      }, 
+      {
+        "entities": [], 
+        "intent": "hello", 
+        "text": "hey there"
+      }, 
+      {
+        "entities": [], 
+        "intent": "hello", 
+        "text": "hi bot"
+      }, 
+      {
+        "entities": [], 
+        "intent": "hello", 
+        "text": "hey bot"
+      }, 
+      {
+        "entities": [], 
+        "intent": "hello", 
+        "text": "hey robot"
+      }, 
+      {
+        "entities": [], 
+        "intent": "hello", 
+        "text": "hey!"
+      }, 
+      {
+        "entities": [], 
+        "intent": "hello", 
+        "text": "hi"
+      }, 
+      {
+        "entities": [], 
+        "intent": "hello", 
+        "text": "hello"
+      }, 
+      {
+        "entities": [], 
+        "intent": "none", 
+        "text": "!&#^&*$^*(%"
+      }, 
+      {
+        "entities": [], 
+        "intent": "none", 
+        "text": "1234567"
+      }, 
+      {
+        "entities": [], 
+        "intent": "none", 
+        "text": "abcdefg"
+      }, 
+      {
+        "entities": [], 
+        "intent": "nutrition", 
+        "text": "Gluten-Free"
+      }, 
+      {
+        "entities": [], 
+        "intent": "nutrition", 
+        "text": "Nutrious"
+      }, 
+      {
+        "entities": [], 
+        "intent": "nutrition", 
+        "text": "Nutrition"
+      }, 
+      {
+        "entities": [], 
+        "intent": "nutrition", 
+        "text": "Starving"
+      }, 
+      {
+        "entities": [], 
+        "intent": "nutrition", 
+        "text": "Hangry"
+      }, 
+      {
+        "entities": [], 
+        "intent": "nutrition", 
+        "text": "Hungry"
+      }, 
+      {
+        "entities": [], 
+        "intent": "nutrition", 
+        "text": "Vegetarian"
+      }, 
+      {
+        "entities": [], 
+        "intent": "nutrition", 
+        "text": "Halal"
+      }, 
+      {
+        "entities": [], 
+        "intent": "nutrition", 
+        "text": "Vegan"
+      }, 
+      {
+        "entities": [], 
+        "intent": "nutrition", 
+        "text": "Vegetarian Food"
+      }, 
+      {
+        "entities": [], 
+        "intent": "nutrition", 
+        "text": "need food"
+      }, 
+      {
+        "entities": [], 
+        "intent": "nutrition", 
+        "text": "want food"
+      }, 
+      {
+        "entities": [], 
+        "intent": "nutrition", 
+        "text": "Vegan food"
+      }, 
+      {
+        "entities": [], 
+        "intent": "nutrition", 
+        "text": "healthy food"
+      }, 
+      {
+        "entities": [], 
+        "intent": "nutrition", 
+        "text": "food"
+      }
+    ], 
+    "entity_synonyms": [], 
+    "regex_features": []
+  }
+}

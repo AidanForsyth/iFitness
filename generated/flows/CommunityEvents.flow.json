@@ -4,9 +4,11 @@
   "startNode": "entry",
   "nodes": [
     {
-      "id": "3acd47c237",
+      "id": "3b77a9ff46",
       "name": "entry",
-      "onEnter": [],
+      "onEnter": [
+        "say #!builtin_single-choice-sfyEv0"
+      ],
       "onReceive": null,
       "next": []
     }

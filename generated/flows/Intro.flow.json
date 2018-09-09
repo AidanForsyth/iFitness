@@ -1,0 +1,43 @@
+{
+  "version": "0.1",
+  "catchAll": {},
+  "startNode": "entry",
+  "nodes": [
+    {
+      "id": "731041b6ca",
+      "name": "entry",
+      "onEnter": [
+        "say #!builtin_text-SyZZCN",
+        "say #!builtin_text-m_5IVN",
+        "say #!builtin_single-choice-vkcFxM"
+      ],
+      "onReceive": null,
+      "next": [
+        {
+          "condition": "event.payload == 0",
+          "node": "FitMoji_Preferences.flow.json"
+        },
+        {
+          "condition": "event.payload == 1",
+          "node": "Nutrition.flow.json"
+        },
+        {
+          "condition": "event.payload == 2",
+          "node": "CommunityEvents.flow.json"
+        },
+        {
+          "condition": "event.nlu.intent.is(\"fitness\")",
+          "node": "FitMoji_Preferences.flow.json"
+        },
+        {
+          "condition": "event.nlu.intent.is(\"nutrition\")",
+          "node": "Nutrition.flow.json"
+        },
+        {
+          "condition": "event.nlu.intent.is(\"communityevents\")",
+          "node": "CommunityEvents.flow.json"
+        }
+      ]
+    }
+  ]
+}
