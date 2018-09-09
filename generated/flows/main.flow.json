@@ -5,7 +5,7 @@
     "next": [
       {
         "condition": "event.nlu.intent.is('forget')",
-        "node": "Day1.flow.json"
+        "node": "FitMoji_Preferences.flow.json"
       }
     ]
   },
@@ -70,7 +70,7 @@
       "next": [
         {
           "condition": "true == true",
-          "node": "FitMoji_Preferences.flow.json"
+          "node": "Intro.flow.json"
         }
       ]
     },
