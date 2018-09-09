@@ -1,0 +1,62 @@
+{
+  "version": "0.1",
+  "catchAll": {},
+  "startNode": "entry",
+  "nodes": [
+    {
+      "id": "cfd4a21904",
+      "name": "entry",
+      "onEnter": [
+        "say #!builtin_text-B~W5rd"
+      ],
+      "onReceive": null,
+      "next": [
+        {
+          "condition": "true",
+          "node": "node-7f80"
+        }
+      ]
+    },
+    {
+      "id": "f51811627e",
+      "name": "node-7f80",
+      "next": [
+        {
+          "condition": "true",
+          "node": "node-8161"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-RnHP5L"
+      ],
+      "onReceive": null
+    },
+    {
+      "id": "2c3419d509",
+      "name": "node-8161",
+      "next": [
+        {
+          "condition": "event.payload == 0",
+          "node": ""
+        },
+        {
+          "condition": "event.payload == 1",
+          "node": ""
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_single-choice-sVt2h7"
+      ],
+      "onReceive": null
+    },
+    {
+      "id": "dc3b1e5648",
+      "name": "node-f2a4",
+      "next": [],
+      "onEnter": [
+        "say #!builtin_single-choice-4H~cvq"
+      ],
+      "onReceive": null
+    }
+  ]
+}

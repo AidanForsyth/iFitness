@@ -1,0 +1,28 @@
+{
+  "name": "ifitness",
+  "version": "1.0.0",
+  "description": "This is a nutrition and fitness related chatbot where users will be able to interact with the bot and obtain tailored nutritional and fitness related information. Professionals in this business will be able to validate the information on the chatbot and thus we know that the information given to the users are credible and accurate.",
+  "main": "index.js",
+  "engines": {
+    "node": ">= 8 < 11"
+  },
+  "dependencies": {
+    "botpress": "10.35.1",
+    "@botpress/audience": "10.35.1",
+    "@botpress/builtins": "10.35.1",
+    "@botpress/nlu": "10.35.1",
+    "@botpress/skill-choice": "10.35.1",
+    "@botpress/hitl": "10.35.1",
+    "@botpress/channel-web": "10.35.1",
+    "jsdoc-api": "^4.0.3",
+    "lodash": "^4.17.10",
+    "yn": "^2.0.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "ghost-sync": "botpress ghost-sync",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "The Fellas",
+  "license": "AGPL-3.0-only"
+}

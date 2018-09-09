@@ -1,0 +1,18 @@
+{
+    "trained_at": "20180908-204851", 
+    "pipeline": [
+        "rasa_nlu.utils.spacy_utils.SpacyNLP", 
+        "rasa_nlu.tokenizers.spacy_tokenizer.SpacyTokenizer", 
+        "rasa_nlu.featurizers.spacy_featurizer.SpacyFeaturizer", 
+        "rasa_nlu.featurizers.ngram_featurizer.NGramFeaturizer", 
+        "rasa_nlu.featurizers.regex_featurizer.RegexFeaturizer", 
+        "rasa_nlu.classifiers.sklearn_intent_classifier.SklearnIntentClassifier"
+    ], 
+    "training_data": "training_data.json", 
+    "spacy_model_name": "en_core_web_md", 
+    "language": "en", 
+    "intent_classifier_sklearn": "intent_classifier.pkl", 
+    "ngram_featurizer": "ngram_featurizer.pkl", 
+    "rasa_nlu_version": "0.11.3", 
+    "regex_featurizer": null
+}

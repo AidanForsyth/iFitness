@@ -1,0 +1,113 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "entities": [], 
+        "intent": "forget", 
+        "text": "don't remember my name"
+      }, 
+      {
+        "entities": [], 
+        "intent": "forget", 
+        "text": "delete my name from your memory"
+      }, 
+      {
+        "entities": [], 
+        "intent": "forget", 
+        "text": "erase my name"
+      }, 
+      {
+        "entities": [], 
+        "intent": "forget", 
+        "text": "forget name"
+      }, 
+      {
+        "entities": [], 
+        "intent": "forget", 
+        "text": "forget"
+      }, 
+      {
+        "entities": [], 
+        "intent": "forget", 
+        "text": "please forget my name"
+      }, 
+      {
+        "entities": [], 
+        "intent": "forget", 
+        "text": "forget my name"
+      }, 
+      {
+        "entities": [], 
+        "intent": "hello", 
+        "text": "good day!"
+      }, 
+      {
+        "entities": [], 
+        "intent": "hello", 
+        "text": "good morning"
+      }, 
+      {
+        "entities": [], 
+        "intent": "hello", 
+        "text": "holla"
+      }, 
+      {
+        "entities": [], 
+        "intent": "hello", 
+        "text": "bonjour"
+      }, 
+      {
+        "entities": [], 
+        "intent": "hello", 
+        "text": "hey there"
+      }, 
+      {
+        "entities": [], 
+        "intent": "hello", 
+        "text": "hi bot"
+      }, 
+      {
+        "entities": [], 
+        "intent": "hello", 
+        "text": "hey bot"
+      }, 
+      {
+        "entities": [], 
+        "intent": "hello", 
+        "text": "hey robot"
+      }, 
+      {
+        "entities": [], 
+        "intent": "hello", 
+        "text": "hey!"
+      }, 
+      {
+        "entities": [], 
+        "intent": "hello", 
+        "text": "hi"
+      }, 
+      {
+        "entities": [], 
+        "intent": "hello", 
+        "text": "hello"
+      }, 
+      {
+        "entities": [], 
+        "intent": "none", 
+        "text": "!&#^&*$^*(%"
+      }, 
+      {
+        "entities": [], 
+        "intent": "none", 
+        "text": "1234567"
+      }, 
+      {
+        "entities": [], 
+        "intent": "none", 
+        "text": "abcdefg"
+      }
+    ], 
+    "entity_synonyms": [], 
+    "regex_features": []
+  }
+}

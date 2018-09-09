@@ -1,0 +1,351 @@
+[
+  {
+    "id": "builtin_text-pSsHWg",
+    "formData": {
+      "text": "👋, {{state.$r}}!",
+      "variations": [
+        "Hello, {{state.$r}}!",
+        "Welcome to Botpress, {{state.$r}}!"
+      ],
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-05-14T00:57:36.026Z"
+  },
+  {
+    "id": "builtin_text-AY5SSW",
+    "formData": {
+      "text": "This is the first time we speak 🤖",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-05-14T00:59:51.118Z"
+  },
+  {
+    "id": "builtin_text-bFsOmf",
+    "formData": {
+      "text": "We already spoke {{state.$r}} times!",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-05-14T01:00:37.593Z"
+  },
+  {
+    "id": "builtin_text-TtzrCV",
+    "formData": {
+      "text": "Alright, I have forgotten your name.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-05-14T01:06:41.963Z"
+  },
+  {
+    "id": "builtin_text-z0J9qh",
+    "formData": {
+      "text": "May I know your name please?",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-05-14T01:08:41.241Z"
+  },
+  {
+    "id": "builtin_text-X069Le",
+    "formData": {
+      "text": "Try saying something like \"forget my name\"!",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-05-14T01:16:53.227Z"
+  },
+  {
+    "id": "builtin_text-kKQ8C3",
+    "formData": {
+      "text": "(To see how this works, double-click anywhere on the flow and go to the \"Transitions\" panel)",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-05-14T01:17:55.317Z"
+  },
+  {
+    "id": "builtin_text-2hrq9I",
+    "formData": {
+      "text": "Hi, how are you?\n",
+      "variations": [
+        "Hello, {{state.$r}}"
+      ],
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-09T15:09:59.077Z"
+  },
+  {
+    "id": "builtin_text-clHdvc",
+    "formData": {
+      "text": "Hi {{event.text}}, How are you?",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-09T15:27:17.656Z"
+  },
+  {
+    "id": "builtin_text-PUkb4b",
+    "formData": {
+      "text": "What's your name?",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-10T01:28:11.769Z"
+  },
+  {
+    "id": "builtin_text-fACwtm",
+    "formData": {
+      "text": "That's great to hear!",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-10T01:30:36.480Z"
+  },
+  {
+    "id": "builtin_text-h5XyAM",
+    "formData": {
+      "text": "Aw that sucks :(, I hope you start to feel better.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-10T01:31:21.240Z"
+  },
+  {
+    "id": "builtin_text-TEHqyI",
+    "formData": {
+      "text": "Heyy! My name is Moji! I am your neighborhood bot here to deliver all the information you need on Health and Wellness!",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-10T01:48:44.165Z"
+  },
+  {
+    "id": "builtin_text-~OvEv6",
+    "formData": {
+      "text": "Warm weather is here, which means everyone is  working for a summer body! 💪 Have you heard of any new diet trends? ☀️",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-10T01:52:31.920Z"
+  },
+  {
+    "id": "builtin_text-zWo6v_",
+    "formData": {
+      "text": "It's actually not that confusing!🤯",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-10T02:05:24.564Z"
+  },
+  {
+    "id": "builtin_text-emltyw",
+    "formData": {
+      "text": "If you've ever woken up late and skipped breakfast, that’s a form of intermittent fasting and something that our bodies are totally capable of handling!",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-10T02:15:39.786Z"
+  },
+  {
+    "id": "builtin_text-KOJuNH",
+    "formData": {
+      "text": "You are actually not starving yourself since your body is using stored fats as energy. ⚡",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-10T02:19:56.501Z"
+  },
+  {
+    "id": "builtin_text-LxxfGX",
+    "formData": {
+      "text": "Well, research has shown that fasting reduces the risk of cancer.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-10T02:22:42.950Z"
+  },
+  {
+    "id": "builtin_text-OauN0Y",
+    "formData": {
+      "text": "Helps weight loss",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-10T02:23:30.939Z"
+  },
+  {
+    "id": "builtin_text-Y4DN6a",
+    "formData": {
+      "text": "Increases mental sharpness",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-10T02:24:01.579Z"
+  },
+  {
+    "id": "builtin_text-Cy7YOr",
+    "formData": {
+      "text": " and Reduces risk of other chronic diseases",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-10T02:24:30.002Z"
+  },
+  {
+    "id": "builtin_text-18zsDh",
+    "formData": {
+      "text": "The preliminary research that has been conducted shows that the weight loss and increased metabolism isn't much more than conventional diets.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-10T02:29:17.081Z"
+  },
+  {
+    "id": "builtin_text-aWyh_G",
+    "formData": {
+      "text": "There also isn't much research on the long-term effects.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-10T18:58:11.371Z"
+  },
+  {
+    "id": "builtin_text-N4kCI7",
+    "formData": {
+      "text": "This diet plan is also not suitable for everyone!  Always ask your doctor before trying a new diet.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-10T18:59:37.659Z"
+  },
+  {
+    "id": "builtin_text-jzs37n",
+    "formData": {
+      "text": "Do NOT try intermittent fasting if you are pregnant, have adrenal issues, blood sugar imbalance, or diabetes.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-10T19:01:12.537Z"
+  },
+  {
+    "id": "builtin_text-TrwhK4",
+    "formData": {
+      "text": "Hey! My name is Ares, your neighbourhood bot here to deliver all of your nutrition and fitness news!",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-13T12:51:22.427Z"
+  },
+  {
+    "id": "builtin_text-3_IkpU",
+    "formData": {
+      "text": "That's awesome!",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-13T13:02:32.444Z"
+  },
+  {
+    "id": "builtin_text-9EGhNY",
+    "formData": {
+      "text": "Ahlie",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-13T13:03:10.534Z"
+  },
+  {
+    "id": "builtin_text-fUyFqo",
+    "formData": {
+      "text": "Oh no, hope you feel better!",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-13T13:03:30.273Z"
+  },
+  {
+    "id": "builtin_text-PSAdFC",
+    "formData": {
+      "text": "Ok message me when you are ready!",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-13T13:07:00.565Z"
+  },
+  {
+    "id": "builtin_text-0CZfBJ",
+    "formData": {
+      "text": "Bless up!",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-13T13:09:11.882Z"
+  },
+  {
+    "id": "builtin_text-KPtwJb",
+    "formData": {
+      "text": "That's perfectly fine!",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-13T13:13:40.015Z"
+  },
+  {
+    "id": "builtin_text-ZMyDdK",
+    "formData": {
+      "text": "Cool!",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-13T13:14:04.712Z"
+  },
+  {
+    "id": "builtin_text-in66C_",
+    "formData": {
+      "text": "Ok, we are gonna try to slowly increase that so you can strengthen your muscles and improve your stamina.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-13T13:17:22.363Z"
+  },
+  {
+    "id": "builtin_text-42Bi80",
+    "formData": {
+      "text": "Damn, that's amazing! You're on your way to being super fit. Remember it is important to have at least 60  minutes of exercise every day.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-13T13:19:05.215Z"
+  },
+  {
+    "id": "builtin_text-KTQzDm",
+    "formData": {
+      "text": "Perfect! You are all set!",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-13T13:19:42.915Z"
+  },
+  {
+    "id": "builtin_text-B~W5rd",
+    "formData": {
+      "text": "Hey! My name is Athena, your neighbourhood bot here to deliver all of your nutrition and fitness news!",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-13T13:29:34.887Z"
+  },
+  {
+    "id": "builtin_text-RnHP5L",
+    "formData": {
+      "text": "What's your name?",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-13T13:32:05.352Z"
+  }
+]

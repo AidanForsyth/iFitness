@@ -1,0 +1,31 @@
+[
+  {
+    "id": "builtin_carousel-2DJMVd",
+    "formData": [
+      {
+        "title": "Here are a couple of  reliable resources for you to check out!",
+        "image": "/media/6hmzpqrkrk8sfkgrcsgo-if2.gif",
+        "actions": [
+          {
+            "title": "Types of Fasting",
+            "action": "Open URL",
+            "url": "https://www.healthline.com/nutrition/6-ways-to-do-intermittent-fasting"
+          },
+          {
+            "title": "Pros and Cons",
+            "action": "Open URL",
+            "url": " https://www.health.harvard.edu/heart-health/not-so-fast-pros-and-cons-of-the-newest-diet-trend "
+          },
+          {
+            "title": "Dr. Mike on Fasting",
+            "action": "Open URL",
+            "url": "https://www.youtube.com/watch?v=xrZMYVDcjZI"
+          }
+        ],
+        "typing": true
+      }
+    ],
+    "createdBy": "admin",
+    "createdOn": "2018-07-10T19:06:46.571Z"
+  }
+]
