@@ -11,3 +11,6 @@ Check [Heroku](https://botpress.io/docs/deploy/heroku/) and [AWS](https://botpre
 ## Development
 
 To learn more on how to work with [Botpress](https://botpress.io/) you can read [here](https://botpress.io/docs/getting_started/).
+
+## More Info
+https://devpost.com/software/ifitness
